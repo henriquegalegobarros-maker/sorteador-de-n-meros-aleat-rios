@@ -35,3 +35,5 @@ Utilização de Math.floor() para gerar números inteiros.
 Praticar a integração entre HTML, CSS e JavaScript, desenvolvendo uma página interativa e aprimorando meus conhecimentos em lógica de programação.
 
 Desenvolvido por Henrique durante meus estudos de desenvolvimento web. 🚀
+
+https://github.com/henriquegalegobarros-maker/sorteador-de-n-meros-aleat-rios/blob/main/assets/Captura%20de%20tela%202026-11-12%20174922.png?raw=true
